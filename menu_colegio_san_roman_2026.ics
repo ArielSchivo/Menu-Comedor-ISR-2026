@@ -2,6 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Menu Colegio San Roman//ES
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Menu San Roman 2026
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VTIMEZONE
 TZID:America/Argentina/Buenos_Aires
@@ -173,5 +175,131 @@ UID:menu-san-roman-20260430@ariel
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T080000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260430T081000
 SUMMARY:Menú colegio - Bondiola a la barbacoa con arroz (postre: bizcochuelo)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260501@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260501T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260501T081000
+SUMMARY:Menú colegio - FERIADO
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260504@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260504T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260504T081000
+SUMMARY:Menú colegio - Pasta corta con salsa crema y jamón (postre: fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260505@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260505T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260505T081000
+SUMMARY:Menú colegio - Bastones de merluza con puré de papas (postre: gelatina)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260506@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260506T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260506T081000
+SUMMARY:Menú colegio - Ternerita al horno con arroz a la manteca (postre: fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260507@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260507T081000
+SUMMARY:Menú colegio - Capeletis con salsa boloñesa (postre: flan de vainilla)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260508@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260508T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260508T081000
+SUMMARY:Menú colegio - Patitas de pollo con papas bastón (postre: budín de limón)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260511@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260511T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260511T081000
+SUMMARY:Menú colegio - Cazuela de pollo y arroz (postre: pionono o fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260512@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260512T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260512T081000
+SUMMARY:Menú colegio - Milanesas de ternera con puré (postre: fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260513@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260513T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260513T081000
+SUMMARY:Menú colegio - Pizza de muzzarella/tomate (postre: gelatina)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260514@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260514T081000
+SUMMARY:Menú colegio - Mostacholes con salsa cheddar o filetto (postre: flan o fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260515@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260515T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260515T081000
+SUMMARY:Menú colegio - Nuggets con papas doré (postre: oblea bañada o fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260518@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260518T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260518T081000
+SUMMARY:Menú colegio - Tallarines al fileto (postre: duraznos con crema)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260519@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260519T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260519T081000
+SUMMARY:Menú colegio - Pastel de papas (postre: fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260520@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260520T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260520T081000
+SUMMARY:Menú colegio - Medallones de merluza con arroz (postre: mousse de chocolate)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260521@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260521T081000
+SUMMARY:Menú colegio - Pizza muzzarella/jamón (postre: gelatina)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260522@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260522T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260522T081000
+SUMMARY:Menú colegio - Chicken fingers con puré (postre: helado o fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260525@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260525T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260525T081000
+SUMMARY:Menú colegio - FERIADO
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260526@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260526T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260526T081000
+SUMMARY:Menú colegio - Fideos moñito con salsa rosa (postre: fruta)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260527@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260527T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260527T081000
+SUMMARY:Menú colegio - Bondiola braseada con papas (postre: flan con DDL)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260528@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260528T081000
+SUMMARY:Menú colegio - Pizzetas muzzarella/tomate (postre: bizcochuelo de naranja)
+END:VEVENT
+BEGIN:VEVENT
+UID:menu-san-roman-20260529@ariel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260529T080000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260529T081000
+SUMMARY:Menú colegio - Medallón de pollo con papas bastón (postre: oblea de maní o fruta)
 END:VEVENT
 END:VCALENDAR
